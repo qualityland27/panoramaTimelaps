@@ -2,7 +2,7 @@
 Timelapse Timer with spin function. 
 
 ## demo
-![Output Sample](data/demo_panoramaTimelapse.gif)
+![Output Sample](data/demo1_panoramaTimelapse.gif)
 
 
 #### origin
