@@ -1,6 +1,11 @@
 # panoramaTimelaps
 Timelapse Timer with spin function. 
 
+##### Input Parameters 
+- Interval [s]
+- Angle [Degree]
+- Shots [#]
+
 ## demo
 ![Output Sample](data/demo1_panoramaTimelapse.gif)
 
